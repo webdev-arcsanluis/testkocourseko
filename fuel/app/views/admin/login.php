@@ -1,6 +1,6 @@
 <!-- <div class="row"> -->
 	<div class="col-md-3Copy">
-		<br><br><br><br><br><br>
+		<br><br><br><br><br>
 		<?php echo Form::open(array()); ?>
 
 			<?php if (isset($_GET['destination'])): ?>
